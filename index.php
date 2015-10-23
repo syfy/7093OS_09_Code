@@ -1,5 +1,6 @@
 <?php
-//test Branch 2
+//test Branch 2 Conflicted
+
 //include ('../date_default_timezone_set.php');
 /*
  *---------------------------------------------------------------
